@@ -21,8 +21,8 @@ $mail->Port       = '465';
 $mail->isSMTP();   
 $mail->CharSet = "UTF-8";                                          
 $mail->SMTPAuth   = true;
-$mail->Username   = 'autoxep@mail.ru'; 
-$mail->Password   = 'Rait1902'; // Пароль на почте
+$mail->Username   = 'autoxep@mail.ru*'; 
+$mail->Password   = '****'; // Пароль на почте
 
 
 $mail->From = 'autoxep@mail.ru'; 
